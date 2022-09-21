@@ -1,0 +1,226 @@
+
+.section-top{
+    /* background-image: url("/figma/back.jpg"); */
+    position: flex;
+width: 1728px;
+height: 58.91px;
+margin-top: 100px;
+
+/* opacity: 0.15; */
+}
+.section-middle{
+    
+ position: relative;
+    
+    height: 252px;
+    margin-left: 90px;
+    margin-top: 72.09px;
+    
+
+
+}
+.navbar-brand{
+    position: relative;
+    justify-items: center;
+    align-items: center;
+   
+width: 241px;
+height: 58.91px;
+
+}
+.body{
+    background-color: #191D29;
+}
+.mr-left{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 61px;
+
+
+width: 339px;
+height: 17px;
+
+justify-content: start;
+
+
+}
+
+.mr-right{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 61px;
+align-items: center;
+
+width: 301px;
+height: 17px;
+
+justify-content: end;
+
+
+}
+
+.nav-link{
+    font-family: 'TT Travels';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    
+    color: #ffffff;
+}
+.BigText{
+
+text-transform: uppercase;
+
+
+
+/* font-family: 'TT Travels'; */
+font-style: normal;
+font-weight: 800;
+font-size: 128px;
+
+background: linear-gradient(99.46deg, #9DFE00 -10.9%, #14D9E6 97.14%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+line-height: 154px;
+
+
+}
+.italic{
+    
+text-align: start;
+justify-content: start;
+margin-left: 93px;;
+/* font-family: 'TT Travels'; */
+font-style: italic;
+font-weight: 600;
+font-size: 114px;
+line-height: 137px;
+/* identical to box height */
+
+
+background: linear-gradient(90.94deg, #FBF8F3 2.21%, #EDFDD4 103.05%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+}
+.blur{
+    position: absolute;
+    top:0px;
+    right: 0px;
+    background: linear-gradient(99.46deg, #9DFE00 -10.9%, #14D9E6 97.14%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+filter: blur(150px);
+}
+.tire{
+    width: 50px;
+height: 10px;
+margin-right: 40px;
+
+
+/* град */
+
+background: linear-gradient(99.46deg, #9DFE00 -10.9%, #14D9E6 97.14%);
+border-radius: 50px;
+}
+.near{
+    justify-content: start;
+    display: flex;
+    align-items: center;
+    height: auto;
+
+}
+.nearTop{
+    margin-left: 258px;
+    
+}
+.svg{
+    position: absolute;
+
+left: 860px;
+top: 34px;;
+
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+justify-content: center;
+    gap: 10px;
+    width: 170px;
+height: 58px;
+    margin-right: 44px;
+    
+    /* град */
+    
+    
+    border-radius: 100px;
+}
+.fill{
+    background: linear-gradient(99.46deg, #9DFE00 -10.9%, #14D9E6 97.14%);
+}
+.nft{
+    width: 120px;
+height: 24px;
+
+
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FBF8F3;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.bottomItems{
+    display: flex;
+    margin-top: 8px;
+    margin-left: 100px;
+}
+.empty{
+
+border: 3px solid #14D9E6;
+
+background-color: rgba(28,28,28,0);
+
+}
+.textEmpty{
+color: #14D9E6;
+
+}
+.textAboutNft{
+    width: 629px;
+height: 51px;
+
+
+
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+
+color: #14D9E6;
+
+}
